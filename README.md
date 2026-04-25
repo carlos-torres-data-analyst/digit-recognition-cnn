@@ -1,7 +1,7 @@
 # digit-recognition-cnn
 Image classification project using CNN to recognize handwritten digits.
 
-# 🔢 Digit Recognition using CNN
+# 🔢 Digit Recognition using CNN – Computer Vision 
 
 ## 🎯 Objective
 
